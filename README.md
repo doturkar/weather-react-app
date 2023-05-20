@@ -1,7 +1,8 @@
 # Weather React App Design
 
-Welcome to my React Weather app! I developed this app as a project for my "Web and Mobile Development" class at New York Institute of Technology, NYC Campus. Currently, I am pursuing a Masters in UI/UX Design and Development.
+Welcome to my React Weather app! I developed this app as a project for my "Web and Mobile Development" class at New York Institute of Technology, NYC Campus. Currently, I am pursuing a Masters in UI/UX Design and Development. 
 
+![alt text](screenshot/"C:\Users\Gi-Admin\Downloads\weather react app.png")
 
 # Getting Started with Create React App
 
